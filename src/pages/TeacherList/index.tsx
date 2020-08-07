@@ -5,7 +5,7 @@ import PageHeader from "../../components/PageHeader";
 import TeacherItem from "../../components/TeacherItem";
 //---------------------------------------------------------------[ style ]
 import "./styles.css";
-//==================================================[ BODY <TeacherList> ]
+//================================================================[ BODY ]
 export default function TeacherList() {
   return (
     <div id="page-teacher-list" className="container">

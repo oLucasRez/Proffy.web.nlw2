@@ -4,7 +4,7 @@ import React from "react";
 import "./styles.css";
 
 import whatsappIcon from "../../assets/images/icons/whatsapp.svg";
-//==================================================[ BODY <TeacherItem> ]
+//================================================================[ BODY ]
 function TeacherItem() {
   return (
     <article className="teacher-item">

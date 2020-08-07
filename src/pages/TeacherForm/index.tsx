@@ -2,7 +2,7 @@
 import React from "react";
 //----------------------------------------------------------[ components ]
 import PageHeader from "../../components/PageHeader";
-//==================================================[ BODY <TeacherForm> ]
+//================================================================[ BODY ]
 export default function TeacherForm() {
   return (
     <div id="page-teacher-form" className="container">

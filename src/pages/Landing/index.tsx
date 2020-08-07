@@ -10,7 +10,7 @@ import landingImg from "../../assets/images/landing.svg";
 import studyIcon from "../../assets/images/icons/study.svg";
 import giveClassesIcon from "../../assets/images/icons/give-classes.svg";
 import purplerHeartIcon from "../../assets/images/icons/purple-heart.svg";
-//======================================================[ BODY <Landing> ]
+//================================================================[ BODY ]
 export default function Landing() {
   return (
     <div id="page-landing">

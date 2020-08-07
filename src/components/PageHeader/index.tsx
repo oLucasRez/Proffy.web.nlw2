@@ -11,7 +11,7 @@ import backIcon from "../../assets/images/icons/back.svg";
 interface PageHeaderProps {
   title: string;
 }
-//===================================================[ BODY <PageHeader> ]
+//================================================================[ BODY ]
 const PageHeader: React.FC<PageHeaderProps> = ({ title, children }) => {
   return (
     <header className="page-header">

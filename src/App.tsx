@@ -4,7 +4,7 @@ import React from "react";
 import Routes from "./routes";
 //---------------------------------------------------------------[ style ]
 import "./assets/styles/global.css";
-//==========================================================[ BODY <App> ]
+//================================================================[ BODY ]
 export default function App() {
   return <Routes />;
 }

@@ -5,7 +5,7 @@ import { BrowserRouter, Route } from "react-router-dom";
 import Landing from "./pages/Landing";
 import TeacherList from "./pages/TeacherList";
 import TeacherForm from "./pages/TeacherForm";
-//==================================================[ BODY <TeacherList> ]
+//================================================================[ BODY ]
 export default function Routes() {
   return (
     <BrowserRouter>
