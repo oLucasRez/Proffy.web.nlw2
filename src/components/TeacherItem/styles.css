@@ -66,7 +66,7 @@
   color: var(--color-primary);
 }
 
-.teacher-item footer button {
+.teacher-item footer a {
   width: 20rem;
   height: 5.6rem;
 
@@ -82,9 +82,10 @@
   border-radius: 0.8rem;
   font: 700 1.4rem Archivo;
   transition: 0.1s;
+  text-decoration: none;
 }
 
-.teacher-item footer button:hover {
+.teacher-item footer a:hover {
   background: var(--color-secundary-dark);
 }
 
